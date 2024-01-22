@@ -15,7 +15,7 @@ N/A
 Opening the Pre-work Study Guide displays each subject of study (HTML, CSS, Git, and JavaScript) and information relevant to that topic.
 Usage of the Chrome DevTools console, by pressing Command+Option+I (macOS) or Control+Shift+I (Windows), will access the active JavaScript via a console panel either below or to the side of the webpage in the browser. The console will display each of the study topics and present a suggested area to begin study.
 
-![alt text](./assets/images/DevTools-Console.png")
+![DevTools Console](./assets/images/DevTools-Console.png)
 
 ## Credits
 
